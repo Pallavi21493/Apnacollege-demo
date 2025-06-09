@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is my first repo.
 <br>
-Author- Pallavi teke
+Author- Pallavi teke(Achintalwar)
